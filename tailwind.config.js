@@ -20,6 +20,8 @@ export default {
         grayBlue: "#344a6c",
         deepBlueHead: "#162f56",
         gray2: "#525a76",
+        cyan: "#67e8f9",
+        sky:"#06b6d4"
       },},
   },
   plugins: [],
