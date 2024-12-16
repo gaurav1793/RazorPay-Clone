@@ -1,8 +1,13 @@
+# Deployed project 
+# link : (https://razor-pay-clone-one-beta.vercel.app/)
+
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run the code 
 
-Currently, two official plugins are available:
+Setup the code base in your code editer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install all dependencies
+
+Use " npm run dev" to run the web application
+
